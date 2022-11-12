@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/akaya-telivigala-regular.ttf",
+      "sha1": "a4313647e89dc5c2266437a3093cc323bb0eabf2"
+    },
+    {
+      "path": "assets/fonts/roboto-regular.ttf",
+      "sha1": "dd1b1db13ff1f72138c134c62f38fef83749f36a"
+    },
+    {
+      "path": "assets/fonts/verdanapro_black.ttf",
+      "sha1": "a855339cc27e7b6f66a10a66e22b256837673a0b"
+    },
+    {
+      "path": "assets/fonts/verdanapro_bold.ttf",
+      "sha1": "25ff82715b0f426ad92b34428e248800f8ad77da"
+    },
+    {
+      "path": "assets/fonts/verdanapro_bolditalic.ttf",
+      "sha1": "dac99a3bed678042c81ad8718ca44a9a38bf99d9"
+    }
+  ]
+}
